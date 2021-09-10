@@ -1,89 +1,31 @@
 ## 웹툰 - 벤치마킹
 
 ---
-### 웹툰 사이트
----
 
-#### 네이버 웹툰    (https://comic.naver.com/webtoon/weekday)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+### 대형 플랫폼
 
-#### 카카오 웹툰	(https://webtoon.kakao.com/)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+    네이버웹툰 - https://comic.naver.com/index
+    네이버시리즈 - https://series.naver.com/
 
-#### 카카오 페이지	(https://page.kakao.com/main)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+    카카오페이지 - https://page.kakao.com/main
+    카카오웹툰 - https://webtoon.kakao.com/
 
-#### 버프툰		(https://bufftoon.plaync.com/webtoon)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+    레진코믹스 - https://www.lezhin.com/ko
 
-#### 포스타입		(https://www.postype.com/)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+    탑툰 - https://toptoon.com/
 
-#### 투믹스		(https://www.toomics.com/)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+    투믹스 - https://www.toomics.com/
 
-#### 탑툰		(https://toptoon.com/)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+### 개인 작가 연재 플랫폼
 
-#### 레진코믹스	(https://www.lezhin.com/ko)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+    딜리헙 - https://kr.dillyhub.com/
+    포스타입 - https://www.postype.com/
 
-#### 봄툰		(https://www.bomtoon.com/)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+### 일본 주간지 (프로세스)
 
-#### 무툰		(https://www.mootoon.co.kr/)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+    소년점프
 
-#### 미스터블루	(https://www.mrblue.com/)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+### 중국 플랫폼
 
-#### 폭스툰		(https://www.foxtoon.com/)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
-
-#### 코미코		(https://www.comico.kr/)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
-
-#### 딜리헙		(https://kr.dillyhub.com/)
-	첫 화면에 보이는 기능
-	핵심 기능
-	최근 추가된 기능
-	사라진 기능
+    콰이칸
+    텐센트 애니메이션
